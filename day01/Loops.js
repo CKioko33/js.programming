@@ -29,3 +29,9 @@ let numbers = [1, 2, 3, 4, 5];
 for (let number of numbers) {   
     console.log(number);
 }
+
+//For..of loop with string
+let str = "Hello";  
+for (let char of str) {
+    console.log(char);
+}   
