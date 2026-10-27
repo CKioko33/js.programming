@@ -28,6 +28,7 @@ If you find bugs, list each finding in order of severity and include:
 
 If you find no actionable bugs, respond exactly:
 
+
 `No bugs found.`
 
 Keep the response focused on the review. If the available context is insufficient to verify a suspected issue, clearly identify the missing information instead of presenting it as a confirmed bug.
